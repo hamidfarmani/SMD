@@ -1,0 +1,21 @@
+Thumbs.db
+.DS_Store
+.gradle
+build/
+out/
+.idea
+*.iml
+*.ipr
+*.iws
+.project
+.settings
+.classpath
+.slcache
+# Project exclude paths
+/target/classes/
+/target/work/plugin-build-classes/
+/target/work/plugin-classes/
+/target/work/resources/
+/target/work/scriptCache/
+/target/work/stubs/
+/target/work/tomcat/
